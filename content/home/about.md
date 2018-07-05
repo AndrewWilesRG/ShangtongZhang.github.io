@@ -10,31 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reinforcement Learning"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Computing Science"
+  institution = "University of Alberta"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Computer Science"
+  institution = "Fudan University"
+  year = 2016
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Shangtong Zhang (张尚彤). Now I am a research intern at the Huaiwei Reinforcement Learning for Autonomous Driving Lab (Edmonton). I will start my DPhill at University of Oxford from October 2018 with Prof. [Shimon Whiteson](http://whirl.cs.ox.ac.uk/). Thanks for the generous funding from [EPSRC](https://epsrc.ukri.org/) and Dept. of Computer Science, University of Oxford. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I graduated from Dept. of Computing Science, University of Alberta in July 2018 with a master's degree specialized in statistical machine learning. I worked with Prof. [Richard S. Sutton](http://incompleteideas.net/). Thesis committees: Prof. [Patrick M. Pilarski](https://sites.ualberta.ca/~pilarski/) and Prof. [Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/).
+
+Before coming to Edmonton, I graduated from School of Computer Science, Fudan University in June 2016 with a bachelor's degree. I worked with Prof. [Xiaoqing Zheng](http://homepage.fudan.edu.cn/zhengxq/) and Prof. [Wenqiang Zhang](http://www.cs.fudan.edu.cn/?page_id=2022).
