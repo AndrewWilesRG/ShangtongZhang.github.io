@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shangtong&#39;s Homepage on Shangtong&#39;s Homepage</title>
-    <link>http://shangtongzhang.github.io/</link>
+    <link>https://shangtongzhang.github.io/</link>
     <description>Recent content in Shangtong&#39;s Homepage on Shangtong&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,82 +12,82 @@
     
     <item>
       <title>PyTorch DeepRL</title>
-      <link>http://shangtongzhang.github.io/project/pytorch/</link>
+      <link>https://shangtongzhang.github.io/project/pytorch/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/project/pytorch/</guid>
+      <guid>https://shangtongzhang.github.io/project/pytorch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deeper Look at Experience Replay</title>
-      <link>http://shangtongzhang.github.io/publication/replay/</link>
+      <link>https://shangtongzhang.github.io/publication/replay/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://shangtongzhang.github.io/publication/replay/</guid>
+      <guid>https://shangtongzhang.github.io/publication/replay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy</title>
-      <link>http://shangtongzhang.github.io/publication/demon_control/</link>
+      <link>https://shangtongzhang.github.io/publication/demon_control/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://shangtongzhang.github.io/publication/demon_control/</guid>
+      <guid>https://shangtongzhang.github.io/publication/demon_control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control</title>
-      <link>http://shangtongzhang.github.io/publication/rl-es/</link>
+      <link>https://shangtongzhang.github.io/publication/rl-es/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://shangtongzhang.github.io/publication/rl-es/</guid>
+      <guid>https://shangtongzhang.github.io/publication/rl-es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks</title>
-      <link>http://shangtongzhang.github.io/publication/crossprop/</link>
+      <link>https://shangtongzhang.github.io/publication/crossprop/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/publication/crossprop/</guid>
+      <guid>https://shangtongzhang.github.io/publication/crossprop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Summer of Code (GSoC) 2017</title>
-      <link>http://shangtongzhang.github.io/project/mlpack/</link>
+      <link>https://shangtongzhang.github.io/project/mlpack/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/project/mlpack/</guid>
+      <guid>https://shangtongzhang.github.io/project/mlpack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coding Deep Reinforcement Learning Papers</title>
-      <link>http://shangtongzhang.github.io/talk/coding_rl_papers/</link>
+      <link>https://shangtongzhang.github.io/talk/coding_rl_papers/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://shangtongzhang.github.io/talk/coding_rl_papers/</guid>
+      <guid>https://shangtongzhang.github.io/talk/coding_rl_papers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinforcement Learning: An Introduction</title>
-      <link>http://shangtongzhang.github.io/project/rl_intro/</link>
+      <link>https://shangtongzhang.github.io/project/rl_intro/</link>
       <pubDate>Tue, 27 Dec 2016 00:00:00 -0700</pubDate>
       
-      <guid>http://shangtongzhang.github.io/project/rl_intro/</guid>
+      <guid>https://shangtongzhang.github.io/project/rl_intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>http://shangtongzhang.github.io/post/getting-started/</link>
+      <link>https://shangtongzhang.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/post/getting-started/</guid>
+      <guid>https://shangtongzhang.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -272,19 +272,19 @@ git submodule update --init --recursive
     
     <item>
       <title>A Deep Neural Network for Modeling Music</title>
-      <link>http://shangtongzhang.github.io/publication/music/</link>
+      <link>https://shangtongzhang.github.io/publication/music/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/publication/music/</guid>
+      <guid>https://shangtongzhang.github.io/publication/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Google Summer of Code (GSoC) 2014</title>
-      <link>http://shangtongzhang.github.io/project/xapian/</link>
+      <link>https://shangtongzhang.github.io/project/xapian/</link>
       <pubDate>Sun, 27 Apr 2014 00:00:00 -0600</pubDate>
       
-      <guid>http://shangtongzhang.github.io/project/xapian/</guid>
+      <guid>https://shangtongzhang.github.io/project/xapian/</guid>
       <description></description>
     </item>
     
